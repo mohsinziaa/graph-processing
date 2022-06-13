@@ -5,18 +5,16 @@ This project is divided into two phases.
 **Phase-I**
 In this phase of the project, you have to create an application for graph processing which 
 should have following features:
-1. Read the PPI-1 data (you can reduce its size)
+1. Read the PPI-1 data (you can reduce its size).
 2. Count the number of nodes in the graph.
 3. Store the graph in an adjacency matrix. 
-4. Add following features/function to your application:
-4(a)Give a node show its degree.
-4(a)Find the node with maximum degree.
--Find the node with minimum degree.
--Display the raw adjacency matrix.
--Give a node find all its neighbours.
+4. Give a node show its degree.
+5. Find the node with maximum degree.
+6. Find the node with minimum degree.
+7. Display the raw adjacency matrix.
+8. Give a node find all its neighbours.
 Develop your assignment using GUI/SDL 
-Visually draw the graph with just nodes, put nodes on the screen in a circular way. Sample 
-given as follow
+Visually draw the graph with just nodes, put nodes on the screen in a circular way.
 
 **Note:** Do install and add SDL directory to visually draw the graph.
 
