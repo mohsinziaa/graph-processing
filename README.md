@@ -9,8 +9,8 @@ should have following features:
 2. Count the number of nodes in the graph.
 3. Store the graph in an adjacency matrix. 
 4. Add following features/function to your application:
--Give a node show its degree.
--Find the node with maximum degree.
+4(a)Give a node show its degree.
+4(a)Find the node with maximum degree.
 -Find the node with minimum degree.
 -Display the raw adjacency matrix.
 -Give a node find all its neighbours.
