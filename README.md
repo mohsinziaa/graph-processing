@@ -16,7 +16,7 @@ should have following features:
 Develop your assignment using GUI/SDL 
 Visually draw the graph with just nodes, put nodes on the screen in a circular way.
 
-**Note:** Do install and add SDL directory to visually draw the graph.
+**Note:** _Do install and add SDL directory to visually draw the graph._
 
 **Phase-II**
 In this phase, your software should take as input a source node (i.e., its number, like 2, 44, 
